@@ -1,0 +1,1 @@
+Ran into a problem with touch not properly traversing sub folders. So this was created to do the job instead. You select a root, it will traverse all subfolders and files in alpha order and update the last updated date. 
